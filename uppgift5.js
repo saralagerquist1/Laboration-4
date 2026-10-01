@@ -17,4 +17,5 @@ meals.push("Soppa");
 // Tagit bort första elementet i arrayen
 meals.shift ();
 
-
+// Utskrift efter förändringar
+console.log(meals);
