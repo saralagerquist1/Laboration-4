@@ -1,14 +1,13 @@
 "use strict";
 
-let meals = ["Ratatouille", "Lasagne", "Tacos", "Köttbullar och potatis", "Pastagratäng"]
+let meals = ["Ratatouille", "Lasagne", "Tacos", "Köttbullar och potatis", "Pastagratäng"];
 
 // Utskrift av hela arrayen
-for (let i = 0; i < meals.length; i++) {
-    console.log(meals[i]);
-}
+console.log(meals);
 
 // Utskrift av det första elementet
-console.log(meals[0])
+console.log(meals[0]);
 
-//Utskrift av sista elementet
-console.log(meals[4])
+// Utskrift av sista elementet
+console.log(meals[4]);
+
