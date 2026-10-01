@@ -1,3 +1,5 @@
+"use strict";
+
 // Variabler
 let firstName = "Sara";
 let lastName = "Lagerquist";

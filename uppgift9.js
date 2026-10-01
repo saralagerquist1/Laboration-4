@@ -19,8 +19,7 @@ const people = [
     }
 ];
 
-// Funktion
-
+// Funktion som skriver ut information om en person samt villkor
 function personInfo(person) {
     if (person.age >= 18) {
         console.log(person.name + " bor i " + person.city + " och är myndig.");
@@ -29,7 +28,7 @@ function personInfo(person) {
     }
 }
 
-// Loop
+// Loop som går igenom arrayen
 for (let person of people) {
     personInfo(person);
 }
