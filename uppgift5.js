@@ -9,3 +9,6 @@ for (let i = 0; i < meals.length; i++) {
 
 // Utskrift av det första elementet
 console.log(meals[0])
+
+//Utskrift av sista elementet
+console.log(meals[4])
