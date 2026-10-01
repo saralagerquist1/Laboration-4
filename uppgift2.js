@@ -1,3 +1,4 @@
+/* Lösning till uppgift 2: Skapat två variabler som lagrar information och med hjälp av matematiska operatorer genomfört beräkningarna. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Variabler

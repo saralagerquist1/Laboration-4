@@ -1,3 +1,4 @@
+/* Lösning till uppgift 5: Skapat en array, sedan ändrat programmet med olika array-metoder. Av Sara Lagerquist, 2026 */
 "use strict";
 
 let meals = ["Ratatouille", "Lasagne", "Tacos", "Köttbullar och potatis", "Pastagratäng"];

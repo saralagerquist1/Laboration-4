@@ -1,3 +1,4 @@
+/* Lösning till uppgift 3: Använt villkor för att avgöra om någon är barn, vuxen elller pensionär. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Variabel

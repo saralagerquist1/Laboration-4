@@ -1,3 +1,4 @@
+/* Lösning till uppgift 9: Skapat array med objekt, skapat funktion och loop för att skriva ut information och om person är myndig. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Array

@@ -1,3 +1,4 @@
+/* Lösning till uppgift 8: Skapat ett objekt som representerar en bok med funktion som tar emot objekt och skriver ut informationen. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Objekt

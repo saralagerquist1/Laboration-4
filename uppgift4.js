@@ -1,3 +1,4 @@
+/* Lösning till uppgift 4: Skapat ett program som skriver ut heltal, sedan ändrat så endast heltal skrivs ut. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Loop för jämna tal

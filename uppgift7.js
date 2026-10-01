@@ -1,3 +1,4 @@
+/* Lösning till uppgift 7: Skapat array med en funktion som räknar ut arrayens summa. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Funktion

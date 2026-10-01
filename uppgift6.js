@@ -1,3 +1,4 @@
+/* Lösning till uppgift 6: Skapat en funktion som räknar ut arean av en rektangel. Av Sara Lagerquist, 2026 */
 "use strict";
 
 // Funktion för att beräkna area
